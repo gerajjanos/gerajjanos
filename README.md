@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gerajjanos
-- 👀 I’m interested in Front-End technologies but also in Back-End development + UI/UX design patterns
+- 👀 I’m interested in Front-End technologies 
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on various projects starting from webpages to aplication UI's
 - 📫 How to reach me? Linked in www.linkedin.com/in/janosgeraj333 or by sending me an E-mail on janos.geraj@gmail.com
